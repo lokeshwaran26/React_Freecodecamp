@@ -19,3 +19,5 @@ Day 06 : , Simple Counter, Functional Update Form, Matching Project, useEffect -
 Day 07 : Multiple Returns, Multiple Returns - Fetching Data, Short - Circuit Evaluation, Ternary Operator, Show/Hide Component
 
 Day 08 : Form Basics, Controlled Inputs
+
+Day 09 : useRef, useReducer - useState Setup, useReducer - Refactor, useReducer - Add Item
