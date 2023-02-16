@@ -21,3 +21,5 @@ Day 07 : Multiple Returns, Multiple Returns - Fetching Data, Short - Circuit Eva
 Day 08 : Form Basics, Controlled Inputs
 
 Day 09 : useRef, useReducer - useState Setup, useReducer - Refactor, useReducer - Add Item
+
+Day 10 : useReducer - Remove Item, Prop Drilling
