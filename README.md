@@ -23,3 +23,5 @@ Day 08 : Form Basics, Controlled Inputs
 Day 09 : useRef, useReducer - useState Setup, useReducer - Refactor, useReducer - Add Item
 
 Day 10 : useReducer - Remove Item, Prop Drilling
+
+Day 11 : Context API / -useContext, Custom Hooks, PropTypes - Setup, PropTypes - Image, PropTypes - Default Values
