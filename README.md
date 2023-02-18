@@ -25,3 +25,5 @@ Day 09 : useRef, useReducer - useState Setup, useReducer - Refactor, useReducer 
 Day 10 : useReducer - Remove Item, Prop Drilling
 
 Day 11 : Context API / -useContext, Custom Hooks, PropTypes - Setup, PropTypes - Image, PropTypes - Default Values
+
+Day 12 : React Router Intro, React Router - Basic Setup, React Router - Error And Switch Component, React Router - Links, React Router - URL Params And Placeholder,
